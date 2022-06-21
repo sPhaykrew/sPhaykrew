@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Sakda Phaykew you can call me First
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Android
-- 📫 How to reach me s_phaykrew@hotmail.com \
+- 📫 How to reach me s_phaykrew@hotmail.com
 
 # Languages & Tools
 - Languages \
