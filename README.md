@@ -1,5 +1,6 @@
 # About Me
 - 👋 Hi, I’m Sakda Phaykew you can call me First
+- ⌨️ I’m currently working as a Android Developer
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Android
 - 📫 How to reach me s_phaykrew@hotmail.com
