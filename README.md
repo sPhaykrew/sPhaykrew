@@ -1,5 +1,5 @@
 # About Me
-- 👋 Hi, I’m Sakda Phaykew you can call me First
+- 👋 Hi, I’m Sakda Plaikaew you can call me First
 - ⌨️ I’m currently working as a Flutter Developer
 - 👀 I’m interested in Android
 - 🌱 I’m currently learning Android
